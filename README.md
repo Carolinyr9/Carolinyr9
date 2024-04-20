@@ -1,4 +1,8 @@
-## Caroliny Rocha
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA0AF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA0AF&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+profile;my+name+is+carol;I+hope+you+enjoy!)](https://git.io/typing-svg)
+
+## Technologies and more
 ### Front-end
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-JavaScript-E4B204?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Html-E14E1D?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
@@ -18,8 +22,7 @@
 ##
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Carolinyr9&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
-
-##
+<br/>
 
 ## Me contate!
   <div>
@@ -29,3 +32,5 @@
   </div>
 
 ![snake gif](https://github.com/Carolinyr9/Carolinyr9/blob/output/github-contribution-grid-snake.gif)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA0AC&height=120&section=footer"/>
