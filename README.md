@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA0AF&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+profile;my+name+is+carol;I+hope+you+enjoy!)](https://git.io/typing-svg)
 
 ## Technologies and more
-### Front-end
+### Front-endd
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-JavaScript-E4B204?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Html-E14E1D?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Css-0277BD?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
