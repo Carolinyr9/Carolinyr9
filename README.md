@@ -11,6 +11,7 @@
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-PHP-7479B1?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Java-CA701F?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-C-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Cobo-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" target="_blank"></a>
 ### DevOps
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Microsoft Azure-31AEE9?style=for-the-badge&logo=azure&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
